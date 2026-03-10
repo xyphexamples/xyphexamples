@@ -1,23 +1,53 @@
-# Hi 👋 I'm Khadeer
+# 👋 Hi, I'm XyphExamples
 
-💻 Frontend / Full Stack Developer
-🚀 Passionate about building modern web apps with great UI/UX
+🚀 Passionate Developer | UI/UX Enthusiast | Tech Explorer
 
-## Skills
+I love building **modern web applications** with clean UI, animations, and smart features.
+Currently focusing on creating **portfolio-level projects with advanced functionality**.
 
-* HTML
-* CSS
+---
+
+## 🧠 Skills
+
+💻 Frontend Development
+
+* HTML5
+* CSS3 / Modern UI Design
 * JavaScript
-* React
-* UI Animations
+
+⚡ Development Focus
+
+* Interactive UI
+* Animations & Micro-interactions
+* Voice features (Text-to-Speech / Web APIs)
 * Responsive Design
 
-## Current Focus
+---
 
-* Building modern UI projects
-* Adding animations and micro-interactions
-* Creating portfolio-level applications
+## 🚀 Projects
 
-## Projects
+🔹 Modern UI Web Apps
+🔹 AI/Voice Feature Experiments
+🔹 Interactive Frontend Projects
+🔹 Portfolio-Level Showcase Applications
 
-Check out my repositories below 👇
+---
+
+## 🎯 Current Goals
+
+✔ Build professional showcase projects
+✔ Improve UI/UX and animation skills
+✔ Learn advanced JavaScript and frameworks
+✔ Create unique developer tools
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xyphexamples\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+GitHub: https://github.com/xyphexamples
